@@ -1,3 +1,5 @@
+setup:
+	python3 -m venv ~/.azure_ci_cd_pipeline
 install:
 	pip install --upgrade pip &&\
 	pip install -r requirements.txt
