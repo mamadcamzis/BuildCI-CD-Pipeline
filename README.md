@@ -1,12 +1,12 @@
 # Overview
-
-<TODO: complete this with an overview of your project>
+This a  project from Udacity to build CI/CD pipeline using GitHub actions and azure pipeline 
+to deploy a flask app on Azure
 
 ## Project Plan
 <TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* A link to a Trello board for the project [Trello planning project](https://trello.com/b/vV1MJiMx/building-a-ci-cd-pipeline)
+* A link to a spreadsheet that includes the original and final project plan> [spreadsheet project management](https://docs.google.com/spreadsheets/d/1-7xYcPvTTA3If3X05Kf7Lqj8NJUzzYQn/edit#gid=224114949)
 
 ## Instructions
 
