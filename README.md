@@ -64,6 +64,12 @@ Port: 443
 
 ![az webapp logtail](images/logtail.png)
 
+* Load test the Web App using Locust
+
+![n locust](images/nlocust.png)
+
+![locust stat](images/locuststat.png)
+
 
 
 ## Enhancements
