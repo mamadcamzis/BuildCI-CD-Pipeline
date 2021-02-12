@@ -49,6 +49,12 @@ cd BuildCI-CD-Pipeline
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
+![Continuous Delivery build](images/cd2.png)
+
+![Continuous Delivery deployment](images/cd1.png)
+
+![Continuous Delivery homepage](images/homepage.png)
+
 * Successful prediction from deployed flask app in Azure Cloud Shell.  
 
 
