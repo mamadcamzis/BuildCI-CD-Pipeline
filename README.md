@@ -84,7 +84,7 @@ This project can be enhanced by many approaches:
 
 - Add more unit test
 - Enhanced predictions model
-- Infrastrcture depolyment should be automated
+- Infrastrcture deployment should be automated
 
 ## Demo 
 
